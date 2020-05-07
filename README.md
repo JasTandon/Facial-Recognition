@@ -38,7 +38,7 @@ python3.8 recognize.py --detector face_detection_model \
  or 
  
  Use Recognize_image.sh on terminal for facial recognition of a particular image.[This will ask for user input]
-+++++++++++++++++++++++++-------------+++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++------------------+++++++++++++++++++++++++++++++++++
 
 For Automated Proceedings:-
 
